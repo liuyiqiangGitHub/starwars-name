@@ -1,0 +1,29 @@
+{
+  "name": "starwarsname",
+  "version": "1.0.0",
+  "description": "Get Randon Star Wars names",
+  "main": "src/index.js",
+  "dependencies": {
+    "npm": "2.14.3",
+    "unique-random-array": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyiqiangGitHub/starwars-name.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "yiqiang liu <yqliu65@hotmail.com> (http://184.168.83.26/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuyiqiangGitHub/starwars-name/issues"
+  },
+  "homepage": "https://github.com/liuyiqiangGitHub/starwars-name#readme"
+}
